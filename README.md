@@ -1,5 +1,3 @@
-# VedaAlluri
-
 👋 Hi, I’m @VedaAlluri
 
 👀 I’m interested in everything data
